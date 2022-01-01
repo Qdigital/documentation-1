@@ -50,7 +50,7 @@
     "gatsby-transformer-sharp": "^3.9.0",
     "gatsby-transformer-yaml": "^3.9.0",
     "highlight.js": "^11.1.0",
-    "jest": "^27.0.6",
+    "jest": "^27.4.4",
     "new-github-issue-url": "^0.2.1",
     "node-font-awesome": "^1.0.2",
     "node-sass": "^6.0.1",
