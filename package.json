@@ -62,7 +62,7 @@
     "react-markdown": "^6.0.2",
     "remark-github-plugin": "^1.4.0",
     "remove": "^0.1.5",
-    "showdown": "^1.9.1",
+    "showdown": "^2.0.0",
     "tocbot": "^4.11.1"
   },
   "devDependencies": {
